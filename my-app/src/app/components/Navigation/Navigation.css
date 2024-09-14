@@ -1,0 +1,21 @@
+
+.header { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgba(245, 209, 215, 0.5373);
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav p {
+    margin: 0 10px;
+}
